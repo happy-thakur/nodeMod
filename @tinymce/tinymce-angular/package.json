@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@tinymce/tinymce-angular",
+        "scope": "@tinymce",
+        "escapedName": "@tinymce%2ftinymce-angular",
+        "name": "@tinymce/tinymce-angular",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Happy Singh\\Documents\\fuse project\\angular 5.1"
+    ]
+  ],
+  "_from": "@tinymce/tinymce-angular@latest",
+  "_hasShrinkwrap": false,
+  "_id": "@tinymce/tinymce-angular@1.0.5",
+  "_inCache": true,
+  "_location": "/@tinymce/tinymce-angular",
+  "_nodeVersion": "9.4.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/tinymce-angular_1.0.5_1518702836774_0.5939053428338434"
+  },
+  "_npmUser": {
+    "name": "tinymce",
+    "email": "is-accounts@ephox.com"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@tinymce/tinymce-angular",
+    "scope": "@tinymce",
+    "escapedName": "@tinymce%2ftinymce-angular",
+    "name": "@tinymce/tinymce-angular",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@tinymce/tinymce-angular/-/tinymce-angular-1.0.5.tgz",
+  "_shasum": "1025d7018ec1a732ab23bcbf2c457ca3deb3d816",
+  "_shrinkwrap": null,
+  "_spec": "@tinymce/tinymce-angular",
+  "_where": "C:\\Users\\Happy Singh\\Documents\\fuse project\\angular 5.1",
+  "author": {
+    "name": "Ephox Inc"
+  },
+  "bugs": {
+    "url": "https://github.com/tinymce/tinymce-angular/issues"
+  },
+  "dependencies": {
+    "@angular/common": "^5.2.0",
+    "@angular/core": "^5.2.0",
+    "@angular/forms": "^5.2.0",
+    "tslib": "^1.7.1"
+  },
+  "description": "Official TinyMCE Angular Component",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-s4lPsM5GsBrr+yqH+PAEO6B5ziqi8Uq+VkMhdI2Wa+JCk8O1fwajpkwWJtouMJO1rEXNzk61vOX8EhEE9H1/+w==",
+    "shasum": "1025d7018ec1a732ab23bcbf2c457ca3deb3d816",
+    "tarball": "https://registry.npmjs.org/@tinymce/tinymce-angular/-/tinymce-angular-1.0.5.tgz",
+    "fileCount": 19,
+    "unpackedSize": 216932
+  },
+  "es2015": "esm2015/tinymce-tinymce-angular.js",
+  "homepage": "https://github.com/tinymce/tinymce-angular#readme",
+  "license": "Apache-2.0",
+  "main": "bundles/tinymce-tinymce-angular.umd.js",
+  "maintainers": [
+    {
+      "name": "tinymce",
+      "email": "is-accounts@ephox.com"
+    }
+  ],
+  "metadata": "tinymce-tinymce-angular.metadata.json",
+  "module": "esm5/tinymce-tinymce-angular.js",
+  "name": "@tinymce/tinymce-angular",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinymce/tinymce-angular.git"
+  },
+  "typings": "tinymce-tinymce-angular.d.ts",
+  "version": "1.0.5"
+}

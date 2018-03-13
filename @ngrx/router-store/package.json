@@ -1,0 +1,107 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@ngrx/router-store@5.0.0",
+        "scope": "@ngrx",
+        "escapedName": "@ngrx%2frouter-store",
+        "name": "@ngrx/router-store",
+        "rawSpec": "5.0.0",
+        "spec": "5.0.0",
+        "type": "version"
+      },
+      "C:\\Users\\Happy Singh\\Documents\\fuse project\\angular 5.1"
+    ]
+  ],
+  "_from": "@ngrx/router-store@5.0.0",
+  "_id": "@ngrx/router-store@5.0.0",
+  "_inCache": true,
+  "_location": "/@ngrx/router-store",
+  "_nodeVersion": "6.10.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/router-store-5.0.0.tgz_1516640221553_0.108249316457659"
+  },
+  "_npmUser": {
+    "name": "mikeryan52",
+    "email": "mike.ryan52@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@ngrx/router-store@5.0.0",
+    "scope": "@ngrx",
+    "escapedName": "@ngrx%2frouter-store",
+    "name": "@ngrx/router-store",
+    "rawSpec": "5.0.0",
+    "spec": "5.0.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ngrx/router-store/-/router-store-5.0.0.tgz",
+  "_shasum": "035d28a38c0e58a0f34c3b4b7f6b8a3aab4dacb0",
+  "_shrinkwrap": null,
+  "_spec": "@ngrx/router-store@5.0.0",
+  "_where": "C:\\Users\\Happy Singh\\Documents\\fuse project\\angular 5.1",
+  "authors": [
+    "Victor Savkin <avix1000@gmail.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/ngrx/platform/issues"
+  },
+  "dependencies": {},
+  "description": "Bindings to connect @angular/router to @ngrx/store",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "035d28a38c0e58a0f34c3b4b7f6b8a3aab4dacb0",
+    "tarball": "https://registry.npmjs.org/@ngrx/router-store/-/router-store-5.0.0.tgz"
+  },
+  "es2015": "@ngrx/router-store.js",
+  "homepage": "https://github.com/ngrx/platform#readme",
+  "keywords": [
+    "RxJS",
+    "Angular",
+    "Redux"
+  ],
+  "license": "MIT",
+  "main": "bundles/router-store.umd.js",
+  "maintainers": [
+    {
+      "name": "brandonroberts",
+      "email": "robertsbt@gmail.com"
+    },
+    {
+      "name": "mikeryan52",
+      "email": "mike.ryan52@gmail.com"
+    },
+    {
+      "name": "robwormald",
+      "email": "rob.wormald@innitapps.com"
+    },
+    {
+      "name": "ngrxadmin",
+      "email": "robwormald@gmail.com"
+    }
+  ],
+  "module": "@ngrx/router-store.es5.js",
+  "name": "@ngrx/router-store",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/common": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "@angular/router": "^5.0.0",
+    "@ngrx/store": "^5.0.0-alpha.0",
+    "rxjs": "^5.5.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngrx/platform.git"
+  },
+  "scripts": {},
+  "typings": "router-store.d.ts",
+  "version": "5.0.0"
+}

@@ -1,0 +1,108 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "angular2-crumbs",
+        "scope": null,
+        "escapedName": "angular2-crumbs",
+        "name": "angular2-crumbs",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Happy Singh\\Documents\\fuse project\\angular 5.1"
+    ]
+  ],
+  "_from": "angular2-crumbs@latest",
+  "_id": "angular2-crumbs@1.2.1",
+  "_inCache": true,
+  "_location": "/angular2-crumbs",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/angular2-crumbs-1.2.1.tgz_1498695712321_0.3288834234699607"
+  },
+  "_npmUser": {
+    "name": "emilol",
+    "email": "emilypoole@live.com.au"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "angular2-crumbs",
+    "scope": null,
+    "escapedName": "angular2-crumbs",
+    "name": "angular2-crumbs",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular2-crumbs/-/angular2-crumbs-1.2.1.tgz",
+  "_shasum": "54705f96d2bce290df44acc7fcd013b176e84ba0",
+  "_shrinkwrap": null,
+  "_spec": "angular2-crumbs",
+  "_where": "C:\\Users\\Happy Singh\\Documents\\fuse project\\angular 5.1",
+  "author": {
+    "name": "Emily Poole"
+  },
+  "bugs": {
+    "url": "https://github.com/emilol/angular-crumbs/issues"
+  },
+  "dependencies": {},
+  "description": "A route-based Angular 2 breadcrumb component and service. Allows breadcrumb descriptions to be set based on route data, or as the result of an API call.",
+  "devDependencies": {
+    "@angular/common": ">=2.0.0 <5.0.0",
+    "@angular/core": ">=2.0.0 <5.0.0",
+    "@angular/platform-browser": ">=2.0.0 <5.0.0",
+    "@angular/router": ">=2.0.0 <5.0.0",
+    "@types/core-js": "^0.9.36",
+    "@types/node": "^7.0.7",
+    "rxjs": "^5.3.0",
+    "typescript": "^2.2.1",
+    "zone.js": "^0.8.5"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "54705f96d2bce290df44acc7fcd013b176e84ba0",
+    "tarball": "https://registry.npmjs.org/angular2-crumbs/-/angular2-crumbs-1.2.1.tgz"
+  },
+  "files": [
+    "lib/",
+    "style.css"
+  ],
+  "gitHead": "58d070b6ea02605e306e39928c3bb6b923d53c52",
+  "homepage": "https://github.com/emilol/angular-crumbs/tree/angular2-crumbs#readme",
+  "keywords": [
+    "angular",
+    "angular2",
+    "breadcrumb"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "emilol",
+      "email": "emilypoole@live.com.au"
+    }
+  ],
+  "name": "angular2-crumbs",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/core": ">=2.0.0 <5.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilol/angular-crumbs.git"
+  },
+  "scripts": {
+    "build": "tsc && ts-npm-lint --fix-typings",
+    "test": "echo \"Error: no test specified\""
+  },
+  "typings": "lib/index",
+  "version": "1.2.1"
+}
